@@ -22,5 +22,8 @@ Installation
 Simply clone the repository or download the `dirscanner.py` file:
 
 #### commands
-'-w' ex:= python3 dirscanner.py -w exemple.txt
-'-t' ex:= python3 dirscanner.py -t 5 (default is 5) 
+
+ '-w' ex:= python3 dirscanner.py -w exemple.txt
+
+
+ '-t' ex:= python3 dirscanner.py -t 5 (default is 5) 
