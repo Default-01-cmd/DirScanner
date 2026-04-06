@@ -23,7 +23,7 @@ Simply clone the repository or download the `dirscanner.py` file:
 
 #### commands
 
- '-w' ex:= python3 dirscanner.py -w exemple.txt
+ '-w' ex:= python3 dirscanner.py (URL) -w exemple.txt
 
 
- '-t' ex:= python3 dirscanner.py -t 5 (default is 5) 
+ '-t' ex:= python3 dirscanner.py (URL)-t 5 (default is 5) 
